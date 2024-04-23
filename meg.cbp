@@ -34,7 +34,6 @@
 		</Compiler>
 		<Unit filename="main.cpp" />
 		<Extensions>
-<tyg>
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>

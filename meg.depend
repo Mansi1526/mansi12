@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713377002 source:c:\users\mansi sharma\downloads\pipo\bin\meg\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<limits>
+
