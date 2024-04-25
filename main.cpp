@@ -12,7 +12,7 @@ public:
     char auname[50];
     char id[20];
     char pub[20];
-    int q,p,B;//q-quantity,p-price
+    int q,p,B;
 
     Lib()
     {
@@ -881,5 +881,5 @@ int main(){
     obj.get();
     getch();
     return 0;
-}DSFDSFASDFSDAFSDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+}
 
